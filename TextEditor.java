@@ -86,11 +86,9 @@ Action Save = new AbstractAction("Save", new ImageIcon("save.gif")) {
 		}
 	};
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         TextEditor texteditor = new TextEditor();
     }
     
